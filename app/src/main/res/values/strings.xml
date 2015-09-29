@@ -21,4 +21,12 @@
     <string name="question_india">India has the second largest population in the world.</string>
     <string name="question_falkland">Falkland Islands are part of the UK.</string>
 
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat</string>
+
+    <string name="hello_world">Hello world!</string>
+
 </resources>
